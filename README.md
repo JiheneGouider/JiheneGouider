@@ -1,9 +1,7 @@
-### Hi there 👋
-
 
 
 <div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Jihene I am a data professional.<b>
+<b>Hi, My name is Jihene. I am a data professional.<b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
@@ -31,7 +29,7 @@
 </p>
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
-<b>Lets connect</b>
+<b>Let's connect</b>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/jihene-gouider-b90558292"> 
