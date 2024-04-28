@@ -1,12 +1,11 @@
 
 
-<div align="center"> <h1 align="center"> Hi There! I am a Data Analyst 👋 </h1> </div>
-<b>Hi, My name is Jihene. I am a data professional.<b>
+<div align="center"> <h1 align="center"> Hi There! Iam Jihene an aspiring Data Analyst 👋 </h1> </div>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
-<b>I have experience using Excel, Tableau, Power Bi, Python, SQL, R, Azure.<b>
+
 <p align="center">
 <a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
@@ -19,7 +18,7 @@
 
 <div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
 
-<b>I have also experience using these data visualization tools.<b>
+
 
 <p align="center">
 
