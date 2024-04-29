@@ -1,7 +1,9 @@
 
 
 <div align="center"> <h1 align="center"> Hi There! Iam Jihene an aspiring Data Analyst 👋 </h1> </div>
-
+🎓 Degree: Master's degree in Agricultral Engineering<br>
+🤝 Soft Skills: Attention to details, Analytical Skills, Strong willing to learn <br>
+🗣️ Languages Spoken: English, French, Arabic
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
@@ -41,8 +43,9 @@
 
 <a href="mailto: jihene.gouider@gmail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
-</a>
-
+</a> <br>
 </p>
+
+
 
 
