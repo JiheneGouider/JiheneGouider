@@ -1,6 +1,6 @@
 
 
-<div align="center"> <h1 align="center"> Hi There! Iam Jihene an aspiring Data Analyst 👋 </h1> </div>
+<div align="center"> <h1 align="center"> Hi There! I am Jihene an aspiring Data Analyst 👋 </h1> </div>
 🎓 Degree: Master's degree in Agricultral Engineering<br>
 🤝 Soft Skills: Attention to details, Analytical Skills, Strong willing to learn <br>
 🗣️ Languages Spoken: English, French, Arabic
